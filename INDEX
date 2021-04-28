@@ -1,0 +1,68 @@
+ABTElectronicsCorporation
+                        ABT Electronics Corporation
+AICp                    Calculate AIC
+ApexEnterprises         ApexEnterprises
+AuditorTraining_10      Auditor Training (10 block)
+AuditorTraining_5       Auditor Training ( 5 block)
+BestSub                 Automatic Search Procedures for Model
+                        Selection; Best Subsets Algorithms
+BodyFat                 Body Fat dataset
+CashOffers              Cash Offers
+CastleBakery            Castle Bakery
+CoinOperatedTenninals   Coin Operated Tenninals
+ComputerizedGame        Computerized Game
+CrackerPromotion        CrackerPromotion
+DiskDriveService        Disk Drive Service
+FillingMachines         Filling Machines
+GroceryRetailer         Grocery Retailer dataset
+GrowthHormone           GrowthHormone
+HayFeverRelief          Hay Fever Relief
+HelicopterService       Helicopter Service
+JobProficiency          Job Proficiency dataset
+JobProficiencyAdditional
+                        Job Proficiency Additional dataset
+KentonFoodCompany       Kenton Food Company
+MLS                     MLS
+Plasma                  plasma level of a polyamine
+PortraitStudio          Portrait Studio dataset
+PremiumDistribution     Premium Distribution
+ProductivityImprovement
+                        Productivity Improvement
+ProgrammerRequirements
+                        Programmer Requirements
+QuestionnaireColor      Questionnaire Color
+RehabilitationTherapy   Rehabilitation Therapy
+RiskPremium             Risk Premium
+RoadPaintWear           RoadPaintWear
+RustInhibitor           RustIn hibitor
+SBCp                    Calculate SBC
+SalableFlowers          Salable Flowers
+ServoData               Servo Data
+SolutionConcentration   SolutionCon centration
+SurgicalUnit            Surgical Unit dataset
+SurgicalUnitAdditional
+                        Surgical Unit Additional dataset
+TaskCompletion          Task Completion
+TelephoneCommunications
+                        Telephone Communications
+TolucaCompany           Toluca Company dataset
+WindingSpeeds           Winding Speeds
+aligned.dot.plot2       Aligned dot plot specific variable correspond
+                        to two factor
+bftest                  Brown-Forsythe Test between two group
+boxcox.sse              Box-Cox Transformations (SSE)
+ci.reg                  Estimation and confidence interval of Mean
+                        Response and Prediction of New Observation in
+                        regression model
+cpc                     Calculate cp critera
+model.s                 Criteria for Model Selection
+modelval                Model Validation
+normal.cor.test         normal correation test
+onerandom               one random effect model
+oneway                  Single-Factor ANOVA
+plotmodel.s             plot Criterias for Model Selection
+pressc                  calculate PRESS
+satterthwaite           satterthwaite
+ssea.oneway             Planning of Sample Sizes with Estimation
+                        Approach Single factor ANOVA
+towway.ci               Confidence intervals for tow way ANOVA
